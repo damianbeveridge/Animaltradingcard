@@ -1,0 +1,41 @@
+/* add your CSS here */
+.card { 
+	width:307px; 
+	height:558px; 
+        border:2px solid blue; 
+	margin:5px; 
+	padding:5px; 
+	background-color:#99e6ff;
+ 	box-shadow: 10px 10px 5px grey;}
+
+.list {
+	list-style:none; 
+	padding-left: 0px; 
+	font-size:small;}
+
+.border{
+	margin: 1px;
+	padding: .5px;
+	border: 2px solid blue;
+	background-color:white; }
+
+h3 {
+	text-align:left; 
+	text-weight: bold;}
+
+.picture {
+	display:inline; 
+	margin-left: 1px; 
+	margin-right: 1px; 
+	margin-top: 2px;
+}
+
+p {
+	display:inline; 
+	font-size:10pt;
+}
+
+body{
+	font-family: serif;
+}
+
