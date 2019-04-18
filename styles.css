@@ -1,7 +1,7 @@
 /* add your CSS here */
 .card { 
 	width:307px; 
-	height:558px; 
+	height:572px; 
         border:2px solid blue; 
 	margin:5px; 
 	padding:5px; 
@@ -19,7 +19,9 @@
 	border: 2px solid blue;
 	background-color:white; }
 
+.info {padding-left: 5px; padding-right: 5px;}
 h3 {
+	padding-left:5px;
 	text-align:left; 
 	text-weight: bold;}
 
